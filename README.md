@@ -2,7 +2,9 @@
 
 > A futuristic, hacker-themed cybersecurity portfolio website built with modern web technologies. Features terminal-style aesthetics, cyberpunk animations, and an immersive interactive experience.
 
-![Hacker Site Screenshot](./public/screenshot.png)
+![Hacker Site Screenshot](./screenshots/screenshot.png)
+
+> [📸 View Full Page Screenshot](./screenshots/screenshot-full.png)
 
 ---
 
